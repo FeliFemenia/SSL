@@ -6,4 +6,4 @@
 * Nombre: Felipe
 * Compilador Seleccionado: gcc
 * Version del compilador: 13.2.0
-* Version del lenguaje C: C17
+* Version del lenguaje C: C23
